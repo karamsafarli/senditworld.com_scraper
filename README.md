@@ -1,0 +1,1 @@
+I built Node.js project that leverages Puppeteer to scrape data from 5,000 webpages on senditworld.com, extracting 15,000 Excel rows of information. The scraper automates the process of navigating the website, collecting data, and compiling it into an Excel file for further analysis or use.
